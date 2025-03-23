@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋 I'm Devi Kartika
 
-<!--
-**DeviKartik4/DeviKartik4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner **developer** learning new things every day! 🚀
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript
+- **Tools:** Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Let's Connect!
+[www.linkedin.com/in/devi-kartika-0870a422b[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourProfile)
+
+### 🎉 Fun Fact
+I love solving coding challenges and exploring new tech! 😃
